@@ -1,0 +1,23 @@
+
+# How to Verify the G2G Authorship Log Timestamp
+
+This guide helps anyone — now or in the future — verify that the `G2G_Authorship_Log.md` file was created and anchored on the Bitcoin blockchain on August 4, 2025.
+
+## What You Need:
+
+- The `.md` file: `G2G_Authorship_Log.md`
+- The `.ots` file: `G2G_Authorship_Log.ots`
+
+## Steps:
+
+1. Go to https://opentimestamps.org
+2. Upload **both** files: the `.md` and `.ots`
+3. The site will confirm:
+   - Whether the hash of the `.md` matches the `.ots` file
+   - The **timestamp** and **Bitcoin block** proving when it was anchored
+
+## Why This Matters:
+
+This proof ensures that the G2G concept originated from FiftyFiveFold and ChatGPT at the stated time and was not fabricated or altered later.
+
+Use this same method to verify future legacy documents, milestone messages, and truth claims.
